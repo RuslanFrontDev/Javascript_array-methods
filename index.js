@@ -1,5 +1,5 @@
 // 1.concat(array-i array ilə birləşdirir)
-// const animals = ['pigs', 'goats', 'sheep'];
+// const animals = ['pigs', 'goats', 'sheep', 'bear']
 // const a = animals.concat('lala')
 // console.log(a);
 // 2.copyWithin(2 rəqəm verilsə hər bir söz bir birinin yerinə keçəcək, 3 parametr neçə dəfə təkrarlatmaq lazım olduğunu deyir)
